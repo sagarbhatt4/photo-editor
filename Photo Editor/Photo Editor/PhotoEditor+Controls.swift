@@ -59,13 +59,13 @@ extension PhotoEditorViewController {
                                                 width: UIScreen.main.bounds.width, height: 30))
         
         textView.textAlignment = .center
-        textView.font = UIFont(name: "Helvetica", size: 30)
+        textView.font = UIFont(name: "Helvetica", size: 16)
         textView.textColor = textColor
         textView.layer.shadowColor = UIColor.black.cgColor
         textView.layer.shadowOffset = CGSize(width: 1.0, height: 0.0)
         textView.layer.shadowOpacity = 0.2
         textView.layer.shadowRadius = 1.0
-        textView.layer.backgroundColor = UIColor.clear.cgColor
+        textView.layer.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.5).cgColor
         textView.autocorrectionType = .no
         textView.isScrollEnabled = false
         textView.delegate = self

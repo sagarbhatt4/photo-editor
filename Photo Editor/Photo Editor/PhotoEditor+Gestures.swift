@@ -169,7 +169,7 @@ extension PhotoEditorViewController : UIGestureRecognizerDelegate  {
         view.superview?.bringSubviewToFront(view)
         let pointToSuperView = recognizer.location(in: self.view)
 
-        view.center = CGPoint(x: view.center.x + recognizer.translation(in: canvasImageView).x,
+        view.center = CGPoint(x: view.center.x,// + recognizer.translation(in: canvasImageView).x
                               y: view.center.y + recognizer.translation(in: canvasImageView).y)
         
         recognizer.setTranslation(CGPoint.zero, in: canvasImageView)
