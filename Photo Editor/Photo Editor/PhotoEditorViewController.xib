@@ -109,7 +109,7 @@
                                 </button>
                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qm4-f6-DBr">
                                     <rect key="frame" x="90" y="0.0" width="30" height="60"/>
-                                    <fontDescription key="fontDescription" name="icomoon" family="icomoon" pointSize="25"/>
+                                    <fontDescription key="fontDescription" name="icomoon" family="icomoon" pointSize="20"/>
                                     <size key="titleShadowOffset" width="1" height="0.0"/>
                                     <state key="normal" title="">
                                         <color key="titleColor" red="0.8784313725490196" green="0.1803921568627451" blue="0.25098039215686274" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -121,7 +121,7 @@
                                 </button>
                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0wH-LJ-SyD">
                                     <rect key="frame" x="135" y="0.0" width="30" height="60"/>
-                                    <fontDescription key="fontDescription" name="icomoon" family="icomoon" pointSize="25"/>
+                                    <fontDescription key="fontDescription" name="icomoon" family="icomoon" pointSize="20"/>
                                     <size key="titleShadowOffset" width="1" height="0.0"/>
                                     <state key="normal" title="">
                                         <color key="titleColor" red="0.8784313725490196" green="0.1803921568627451" blue="0.25098039215686274" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
