@@ -67,8 +67,7 @@ public final class PhotoEditorViewController: UIViewController {
     var lastTextViewFont:UIFont?
     var activeTextView: UITextView?
     var imageViewToPan: UIImageView?
-    var isTyping: Bool = false
-    
+    var isTyping: Bool = false    
     
     var stickersViewController: StickersViewController!
 
